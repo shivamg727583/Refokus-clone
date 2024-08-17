@@ -1,11 +1,12 @@
 @font-face {
     font-family: satoshi;
-    src: url('./fonts/Satoshi-Variable.ttf');
+    src: url('./assets/fonts/Satoshi-Variable.ttf');
 }
 @font-face {
     font-family: satoshi-italic;
-    src: url('./fonts/Satoshi-VariableItalic.ttf');
+    src: url('./assets/fonts/Satoshi-VariableItalic.ttf');
 }
+
 
 body{
     font-family: satoshi;
